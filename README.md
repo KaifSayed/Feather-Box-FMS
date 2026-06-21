@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Disclaimer:
+The website may be out of service for now, in that case message/request me for access. 
 Visit the website - (https://feather-box.vercel.app/)
 
 ## Getting Started
